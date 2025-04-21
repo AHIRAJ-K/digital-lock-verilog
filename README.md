@@ -1,4 +1,4 @@
-# 🔐 Digital Lock System (Verilog)
+# 🔐 [Digital Lock System (Verilog)](https://ahiraj-k.github.io/digital-lock-verilog/Project-Report.pdf)
 
 A 4‑bit Digital Lock System implemented using Verilog and simulated in a Vivado environment.
 
@@ -46,7 +46,7 @@ A Verilog testbench simulates various input scenarios to validate correct vs. in
 
 ## 📄 Project Report
 
-[Download the full project report (PDF)](./REPORT.pdf)
+[Download the full project report (PDF)](https://ahiraj-k.github.io/digital-lock-verilog/Project-Report.pdf)
 
 ---
 

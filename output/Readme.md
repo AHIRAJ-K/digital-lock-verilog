@@ -9,18 +9,20 @@ Each image represents different test scenarios, such as correct/incorrect input 
 ## 🔍 Output Images
 
 ### 1)Output 1
-![Output 1](output/1.jpg)
+![Output 1](https://github.com/AHIRAJ-K/digital-lock-verilog/blob/main/output/1.jpg)
 
 ### 2)Output 2
-![Output 2](./2.png)
+![Output 2](https://github.com/AHIRAJ-K/digital-lock-verilog/blob/main/output/2.jpg)
 
 ### 3)Output 3
-![Output 3](./3.png)
+![Output 3](https://github.com/AHIRAJ-K/digital-lock-verilog/blob/main/output/3.jpg)
 
 ### 4)Output 4
-![Output 4](./4.png)
+![Output 4](https://github.com/AHIRAJ-K/digital-lock-verilog/blob/main/output/4.jpg)
 
-<!-- You can continue like this for however many outputs you have -->
+### 4)Output 5
+![Output 5](https://github.com/AHIRAJ-K/digital-lock-verilog/blob/main/output/5.jpg)
+
 
 ---
 

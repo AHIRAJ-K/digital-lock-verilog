@@ -9,7 +9,7 @@ Each image represents different test scenarios, such as correct/incorrect input 
 ## 🔍 Output Images
 
 ### 1)Output 1
-![Output 1](./1.png)
+![Output 1](output/1.jpg)
 
 ### 2)Output 2
 ![Output 2](./2.png)

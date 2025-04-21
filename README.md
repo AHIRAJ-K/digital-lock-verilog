@@ -60,5 +60,5 @@ A Verilog testbench simulates various input scenarios to validate correct vs. in
 
 - [Ahiraj K](https://www.linkedin.com/in/ahiraj-k)
 - [Agnet Maria Soy](https://www.linkedin.com/in/agnet-maria-soy-/)
-- [Adwaith Raveendran](https://www.linkedin.com/in/ahiraj-k)
+- [Adwaith Raveendran](https://www.linkedin.com/)
 

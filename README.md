@@ -11,7 +11,7 @@ Includes a reset signal to clear outputs and a testbench for functional verifica
 
 ---
 
-## 🧠 System Description
+## ⚙️ System Description
 
 ### 📥 Input Signals
 - `clk`                 — Clock input  
@@ -31,7 +31,7 @@ When `reset` is asserted, all outputs (`unlock` and `alarm`) are reset to `0`.
 
 ---
 
-## 🧪 Testbench
+## 🔧 Testbench
 
 A Verilog testbench simulates various input scenarios to validate correct vs. incorrect password handling and reset behavior.
 

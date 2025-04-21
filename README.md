@@ -1,4 +1,4 @@
-# 🔐 Digital Lock System (Verilog)
+# 🔐 [Digital Lock System (Verilog)](https://ahiraj-k.github.io/digital-lock-verilog/Project-Report.pdf)
 
 A 4‑bit Digital Lock System implemented using Verilog and simulated in a Vivado environment.
 
@@ -11,7 +11,7 @@ Includes a reset signal to clear outputs and a testbench for functional verifica
 
 ---
 
-## 🧠 System Description
+## ⚙️ System Description
 
 ### 📥 Input Signals
 - `clk`                 — Clock input  
@@ -31,7 +31,7 @@ When `reset` is asserted, all outputs (`unlock` and `alarm`) are reset to `0`.
 
 ---
 
-## 🧪 Testbench
+## 🔧 Testbench
 
 A Verilog testbench simulates various input scenarios to validate correct vs. incorrect password handling and reset behavior.
 
@@ -46,7 +46,7 @@ A Verilog testbench simulates various input scenarios to validate correct vs. in
 
 ## 📄 Project Report
 
-[Download the full project report (PDF)](./REPORT.pdf)
+[Download the full project report (PDF)](https://ahiraj-k.github.io/digital-lock-verilog/Project-Report.pdf)
 
 ---
 
@@ -59,4 +59,6 @@ A Verilog testbench simulates various input scenarios to validate correct vs. in
 ## 🚀 Contributors
 
 - [Ahiraj K](https://www.linkedin.com/in/ahiraj-k)
+- [Agnet Maria Soy](https://www.linkedin.com/in/agnet-maria-soy-/)
+- [Adwaith Raveendran](https://www.linkedin.com/)
 
